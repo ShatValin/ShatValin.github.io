@@ -20,12 +20,12 @@
   .content{
 
   	max-width: 800px;
-  	min-width: 600px;
+  	min-width: 550px;
   	margin: 20px auto 20px auto;
   }
   .header{
   	font-family: "robotoregular", Arial, Verdana, sans-serif;
-  		min-width: 550px;
+  		min-width: 500px;
   		margin: 20px auto 20px auto;
   		text-align: center;
 
@@ -93,7 +93,7 @@ h3{
 	float:left;
 	
 }
-.footer *{
+footer *{
 	margin: 0px;
 
 }
@@ -103,7 +103,7 @@ img{
   margin: 25px 0px 0px 0px !important;
   padding-top: 10px;
 }
-.footer{
+footer{
 	max-width: 800px;
 	margin: 50px auto 20px auto;
 }
@@ -178,4 +178,7 @@ i{
 }
 #phonenumber{
   padding-right: 5px;
+}
+#git{
+  text-align: center;
 }
